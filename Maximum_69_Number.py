@@ -1,4 +1,3 @@
-n=int(input())
-n=str(n)
-n=n.replace("6","9",1)
-print(int(n))
+n=str(input())
+x=n.replace('6','9',1)
+print(int(x))
